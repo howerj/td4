@@ -39,6 +39,12 @@ space to document some ideas.
 * [ ] Turn this into a primitive Programmable Logic Controller.
 * [ ] Make more example programs
 * [ ] Improve assembler (add labels, debugger).
+* [ ] There are "Configurable Multiple Function Gate" ICs, such as the
+  74LVC1G97 that can be used as a MUX, AND, OR, NAND, NOR, an Inverter or
+  a buffer using 3-inputs (1-output). That device only allows 1-bit to
+  be processed at a time (4 of them would be required) but it goes to show
+  there are options for changing the instruction set. None of these devices
+  are through-hole however, which is part of the appeal of this system.
 
 # Links
 
